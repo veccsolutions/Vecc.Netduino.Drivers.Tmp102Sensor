@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vecc.Netduino.Drivers.Tmp102Sensor", "Vecc.Netduino.Drivers.Tmp102Sensor\Vecc.Netduino.Drivers.Tmp102Sensor.csproj", "{EA432038-59D3-4EC5-AE35-2CBC00C99EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vecc.Netduino.Drivers.Tmp102Sensor.Sandbox", "Vecc.Netduino.Drivers.Tmp102Sensor.Sandbox\Vecc.Netduino.Drivers.Tmp102Sensor.Sandbox.csproj", "{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA432038-59D3-4EC5-AE35-2CBC00C99EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA432038-59D3-4EC5-AE35-2CBC00C99EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA432038-59D3-4EC5-AE35-2CBC00C99EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA432038-59D3-4EC5-AE35-2CBC00C99EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD0AF36-DB18-40CB-A866-EFC25A0810D6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
